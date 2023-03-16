@@ -6,7 +6,7 @@
 
   <groupId>net.xmlizer</groupId>
   <artifactId>permutation</artifactId>
-  <version>1.0</version>
+  <version>1.1-SNAPSHOT</version>
 
   <name>permutation</name>
   <url>https://github.com/sbsdev/permutation</url>
