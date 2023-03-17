@@ -24,7 +24,7 @@ mvn release:perform -Darguments="-Dmaven.deploy.skip=true"
 
 # License
 
-LGPLv3+
+LGPLv2.1+
 
 # Authors
 
