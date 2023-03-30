@@ -10,16 +10,11 @@ pp. 282-284.
 mvn -B package
 ```
 
-# Release
+# Release and deploy
 
 ```
 mvn release:prepare
-```
-
-Perform a release without deploying.
-
-```
-mvn release:perform -Darguments="-Dmaven.deploy.skip=true"
+mvn release:perform
 ```
 
 # License
