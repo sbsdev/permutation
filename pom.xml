@@ -5,7 +5,7 @@
 
   <groupId>ch.sbs.preptools</groupId>
   <artifactId>permutation</artifactId>
-  <version>1.5-SNAPSHOT</version>
+  <version>1.5</version>
 
   <name>permutation</name>
   <description>Implements generic permutation according to Kenneth H. Rosen, Discrete Mathematics
@@ -16,7 +16,7 @@
     <connection>scm:git:git://github.com/sbsdev/permutation.git</connection>
     <developerConnection>scm:git:git@github.com:sbsdev/permutation.git</developerConnection>
     <url>https://github.com/sbsdev/permutation/tree/master</url>
-    <tag>HEAD</tag>
+    <tag>v1.5</tag>
   </scm>
 
   <licenses>
