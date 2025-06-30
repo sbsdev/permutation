@@ -19,7 +19,7 @@ import java.math.BigInteger;
  * 
  * You should have received a copy of the GNU Lesser General Public
  * License along with this program. If not, see
- * <http://www.gnu.org/licenses/>.
+ * {@literal <http://www.gnu.org/licenses/>}.
  */
 
 // Initial version of this code from:
